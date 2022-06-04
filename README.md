@@ -22,4 +22,4 @@ During the process of exploration, I showed the relationship between the differe
 I also determined the waiting period by subtracting the appointment date from the scheduled date, making use of the histogram to show the difference. I also used line chat to determine when the scheduled date starts and when the appointment date starts. I also showed the relationship between the scheduled date and the appointment date using a scatter plot.
 I also determine which gender has the highest count using a pie chart.
  
-You can follow the link to see the visualization. https://lnkd.in/d4gkavWe #udacity #dataanalysis
+You can follow the link to see the visualization. https://lnkd.in/d4gkavWe 
